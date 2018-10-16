@@ -20,10 +20,10 @@ uppercase.toUpperCase() ===
 uppercase 
 
 function sayHiToGrandma(string) {
-  if (string.toLowerCase() === upercase) {
-    return "YES INDEED"
-  } else if (string === lowercase) {
+  if (string.toLowerCase() === string) {{
     return "I can\`t hear you!"
+  } else if (string === lowercase) {
+    return "YES INDEED"
 
   
 }
